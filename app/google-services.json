@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1028946390920",
+    "firebase_url": "https://copy-center-tmf.firebaseio.com",
+    "project_id": "copy-center-tmf",
+    "storage_bucket": "copy-center-tmf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028946390920:android:3279367b88cb1a26d7543d",
+        "android_client_info": {
+          "package_name": "io.github.the_dagger.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028946390920-cboo4l39lursv9hi8coqguel43rg7nst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyK42gwuFTzutMWExf56f7bL0nWAeqHk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028946390920-cboo4l39lursv9hi8coqguel43rg7nst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
